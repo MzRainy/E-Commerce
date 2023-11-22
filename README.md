@@ -83,6 +83,9 @@ Clone this project and run `npm install`. On MySQL CLI create the database with 
 ## Usage
 
 Use Insomnia to test RESTful API implementation with HTTP methods POST, GET, GET by id, PUT and DELETE by id.
+
+## Video
+https://watch.screencastify.com/v/QIlcO5ak9sQw6M0YQgES
 ## License
 
 MIT License
